@@ -2,8 +2,8 @@
   <h1>💡 100 Days of DSA Coding Challenge 🚀</h1>
   <img src="https://img.shields.io/badge/language-Java-blue?style=for-the-badge" alt="Language: Java">
   <img src="https://img.shields.io/badge/status-Ongoing-brightgreen?style=for-the-badge" alt="Status: Ongoing">
-  <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge" alt="Followers">
-  <img src="https://img.shields.io/github/stars/your-username/100-days-dsa-challenge?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/followers/aasn0119?style=for-the-badge" alt="Followers">
+  <img src="https://img.shields.io/github/stars/aasn0119/100-days-dsa-challenge?style=for-the-badge" alt="Stars">
 </div>
 
 <div align="center">
