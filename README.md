@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/status-Ongoing-brightgreen?style=for-the-badge" alt="Status: Ongoing">
   <img src="https://img.shields.io/github/followers/aasn0119?style=for-the-badge" alt="Followers">
   <img src="https://img.shields.io/github/stars/aasn0119/100daysCodingChallenge?style=for-the-badge" alt="Stars">
+  [![Java](https://img.shields.io/badge/Java-11+-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 </div>
 
 <div align="center">
