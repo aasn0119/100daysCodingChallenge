@@ -12,15 +12,18 @@
 </div>
 
 ## 🚀 Challenge Overview
+
 Welcome to my 100 Days of Data Structures and Algorithms (DSA) Coding Challenge! In this journey, I'll be honing my problem-solving skills, mastering algorithms, and enhancing my Java programming skills.
 
 ### Challenge Rules
+
 - I'll be solving DSA problems daily for 100 days.
 - Each day's solution will be documented in this repository.
 - I'll track my progress using the [Progress Log](#-progress-log) below.
 - Feel free to join me on this coding adventure! 🌟
 
 ## 📋 Progress Log
+
 Here's a summary of my daily progress throughout the challenge. Click on each day to view the code and a brief explanation.
 
 <details>
@@ -28,17 +31,24 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_1">Day 1 Code and Explanation</a>
 </details>
 
+<details>
+  <summary>Day 2: Oct 4, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_2">Day 2 Code and Explanation</a>
+</details>
 
 <!-- Repeat the above structure for each day -->
 
 ## 📚 Resources
+
 I'll be using the following resources during this challenge:
+
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Coursera - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 
 ## 📢 Stay Connected
+
 Follow my journey on GitHub, and let's learn and grow together! If you have any questions or want to share your progress, feel free to reach out.
 
 [GitHub](https://github.com/aasn0119)
