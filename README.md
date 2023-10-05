@@ -42,7 +42,7 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
 </details>
 
 <details>
-  <summary>Day 4: Oct 5, 2023</summary>
+  <summary>Day 4: Oct 6, 2023</summary>
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_4">Day 4 Code and Explanation</a>
 </details>
 
