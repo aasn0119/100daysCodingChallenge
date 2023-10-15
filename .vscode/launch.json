@@ -1,0 +1,210 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "IsValidParenthesis",
+      "request": "launch",
+      "mainClass": "Day_14.IsValidParenthesis",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "JumpGame",
+      "request": "launch",
+      "mainClass": "Day_10.JumpGame",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortedArrays",
+      "request": "launch",
+      "mainClass": "Day_10.MergeSortedArrays",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MajorityElement",
+      "request": "launch",
+      "mainClass": "Day_11.MajorityElement",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "ReversePairs",
+      "request": "launch",
+      "mainClass": "Day_11.ReversePairs",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "Combinations",
+      "request": "launch",
+      "mainClass": "Day_12.Combinations",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "GameOfLife",
+      "request": "launch",
+      "mainClass": "Day_12.GameOfLife",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MaxValueOfEquation",
+      "request": "launch",
+      "mainClass": "Day_13.MaxValueOfEquation",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "RandomizedCollection",
+      "request": "launch",
+      "mainClass": "Day_13.RandomizedCollection",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "largestRectangle",
+      "request": "launch",
+      "mainClass": "Day_14.largestRectangle",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "ChocolateDistribution",
+      "request": "launch",
+      "mainClass": "Day_2.ChocolateDistribution",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MaxProfit",
+      "request": "launch",
+      "mainClass": "Day_2.MaxProfit",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "Remove_duplicates",
+      "request": "launch",
+      "mainClass": "Day_4.Remove_duplicates",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "TwoSum",
+      "request": "launch",
+      "mainClass": "Day_4.TwoSum",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MaxProfit_II",
+      "request": "launch",
+      "mainClass": "Day_5.MaxProfit_II",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SubarraySumDivByK",
+      "request": "launch",
+      "mainClass": "Day_5.SubarraySumDivByK",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "FindDuplicates",
+      "request": "launch",
+      "mainClass": "Day_6.FindDuplicates",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MaxWaterContainer",
+      "request": "launch",
+      "mainClass": "Day_6.MaxWaterContainer",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "FourSum",
+      "request": "launch",
+      "mainClass": "Day_7.FourSum",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "ThreeSum",
+      "request": "launch",
+      "mainClass": "Day_7.ThreeSum",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MaxScore",
+      "request": "launch",
+      "mainClass": "Day_8.MaxScore",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SubarraySumEqualsK",
+      "request": "launch",
+      "mainClass": "Day_8.SubarraySumEqualsK",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SpiralMatrix",
+      "request": "launch",
+      "mainClass": "Day_9.SpiralMatrix",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "WordSearch",
+      "request": "launch",
+      "mainClass": "Day_9.WordSearch",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "Duplicate_Number",
+      "request": "launch",
+      "mainClass": "Duplicate_Number",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "MoveZeros",
+      "request": "launch",
+      "mainClass": "MoveZeros",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "Set_Matrix_Zeroes",
+      "request": "launch",
+      "mainClass": "Set_Matrix_Zeroes",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SortColors",
+      "request": "launch",
+      "mainClass": "SortColors",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    }
+  ]
+}

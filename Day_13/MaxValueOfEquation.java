@@ -1,7 +1,5 @@
 package Day_13;
 
-import java.util.*;
-
 public class MaxValueOfEquation {
 
     public static int findMaxValueOfEquation(int[][] arr, int k) {
