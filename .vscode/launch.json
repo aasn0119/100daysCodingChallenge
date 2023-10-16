@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "strStr",
+      "request": "launch",
+      "mainClass": "Day_15.strStr",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateChars",
+      "request": "launch",
+      "mainClass": "Day_15.DuplicateChars",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "IsValidParenthesis",
       "request": "launch",
       "mainClass": "Day_14.IsValidParenthesis",
