@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ValidPalindromeII",
+      "request": "launch",
+      "mainClass": "Day_16.ValidPalindromeII",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "LongestCommonPrefix",
+      "request": "launch",
+      "mainClass": "Day_16.LongestCommonPrefix",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "strStr",
       "request": "launch",
       "mainClass": "Day_15.strStr",
