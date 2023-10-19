@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimplifyPath",
+      "request": "launch",
+      "mainClass": "Day_18.SimplifyPath",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SmallestWindow",
+      "request": "launch",
+      "mainClass": "Day_18.SmallestWindow",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "GenerateParentheses",
       "request": "launch",
       "mainClass": "Day_17.GenerateParentheses",
