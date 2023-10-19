@@ -106,6 +106,11 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_16">Day 16 Code and Explanation</a>
 </details>
 
+<details>
+  <summary>Day 17: Oct 19, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_17">Day 17 Code and Explanation</a>
+</details>
+
 <!-- Repeat the above structure for each day -->
 
 ## 📚 Resources
