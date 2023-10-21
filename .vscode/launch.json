@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RabinKarpAlgorithm",
+      "request": "launch",
+      "mainClass": "RabinKarpAlgorithm",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "ReverseWords",
+      "request": "launch",
+      "mainClass": "ReverseWords",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "SimplifyPath",
       "request": "launch",
       "mainClass": "Day_18.SimplifyPath",
