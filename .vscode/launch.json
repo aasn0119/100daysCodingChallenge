@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AnagramGroups",
+      "request": "launch",
+      "mainClass": "AnagramGroups",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "WordWrap",
+      "request": "launch",
+      "mainClass": "WordWrap",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "RabinKarpAlgorithm",
       "request": "launch",
       "mainClass": "RabinKarpAlgorithm",
