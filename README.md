@@ -120,9 +120,15 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 19: Oct 21, 2023</summary>
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_19">Day 19 Code and Explanation</a>
 </details>
+
 <details>
   <summary>Day 20: Oct 22, 2023</summary>
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_20">Day 20 Code and Explanation</a>
+</details>
+
+<details>
+  <summary>Day 21: Oct 23, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_21">Day 21 Code and Explanation</a>
 </details>
 
 <!-- Repeat the above structure for each day -->
