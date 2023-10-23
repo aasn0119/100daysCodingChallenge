@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ValidNumber",
+      "request": "launch",
+      "mainClass": "Day_21.ValidNumber",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "BasicCalculator",
+      "request": "launch",
+      "mainClass": "Day_21.BasicCalculator",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "AnagramGroups",
       "request": "launch",
       "mainClass": "AnagramGroups",
