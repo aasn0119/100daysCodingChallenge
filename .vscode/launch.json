@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumWindowSubstring",
+      "request": "launch",
+      "mainClass": "Day_22.MinimumWindowSubstring",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "NumbersToWords",
+      "request": "launch",
+      "mainClass": "Day_22.NumbersToWords",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "ValidNumber",
       "request": "launch",
       "mainClass": "Day_21.ValidNumber",
