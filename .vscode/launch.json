@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxAreaBinaryRectangle",
+      "request": "launch",
+      "mainClass": "Day_24.MaxAreaBinaryRectangle",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "DistinctSubsequences",
+      "request": "launch",
+      "mainClass": "Day_24.DistinctSubsequences",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "BoyerMoore",
       "request": "launch",
       "mainClass": "Day_23.BoyerMoore",
