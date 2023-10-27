@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SurroundedRegions",
+      "request": "launch",
+      "mainClass": "Day_25.SurroundedRegions",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "NumberOfIslands",
+      "request": "launch",
+      "mainClass": "Day_25.NumberOfIslands",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "MaxAreaBinaryRectangle",
       "request": "launch",
       "mainClass": "Day_24.MaxAreaBinaryRectangle",
