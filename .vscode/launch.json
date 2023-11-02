@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxPointOnLine",
+      "request": "launch",
+      "mainClass": "MaxPointOnLine",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "SurroundedRegions",
       "request": "launch",
       "mainClass": "Day_25.SurroundedRegions",
