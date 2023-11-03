@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "KthFactorOfN",
+      "request": "launch",
+      "mainClass": "Day_32.KthFactorOfN",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "SquareFormation",
+      "request": "launch",
+      "mainClass": "Day_32.SquareFormation",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "MaxPointOnLine",
       "request": "launch",
       "mainClass": "MaxPointOnLine",
