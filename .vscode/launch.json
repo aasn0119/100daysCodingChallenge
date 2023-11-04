@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PermutationInArray",
+      "request": "launch",
+      "mainClass": "Day_33.PermutationInArray",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "CeilSearch",
+      "request": "launch",
+      "mainClass": "Day_33.CeilSearch",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "KthFactorOfN",
       "request": "launch",
       "mainClass": "Day_32.KthFactorOfN",
