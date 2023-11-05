@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PermutationsInArray",
+      "request": "launch",
+      "mainClass": "Day_34.PermutationsInArray",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "DifferenceOfPairs",
+      "request": "launch",
+      "mainClass": "Day_34.DifferenceOfPairs",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "PermutationInArray",
       "request": "launch",
       "mainClass": "Day_33.PermutationInArray",
