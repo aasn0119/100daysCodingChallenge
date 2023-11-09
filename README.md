@@ -213,7 +213,7 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
 
 <details>
   <summary>Day 38: Nov 09, 2023</summary>
-  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_37">Day 37 Code and Explanation</a>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_38">Day 38 Code and Explanation</a>
 </details>
 
 <!-- Repeat the above structure for each day -->
