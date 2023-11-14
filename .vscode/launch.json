@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseLinkedList",
+      "request": "launch",
+      "mainClass": "Day_43.ReverseLinkedList",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "PermutationsInArray",
       "request": "launch",
       "mainClass": "Day_34.PermutationsInArray",
