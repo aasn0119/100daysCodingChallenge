@@ -246,6 +246,11 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_44">Day 44 Code and Explanation</a>
 </details>
 
+<details>
+  <summary>Day 45: Nov 16, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_45">Day 45 Code and Explanation</a>
+</details>
+
 <!-- Repeat the above structure for each day -->
 
 ## 📚 Resources
