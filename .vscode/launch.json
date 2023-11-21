@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ModifyLinkedList",
+      "request": "launch",
+      "mainClass": "Day_50.ModifyLinkedList",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "segregateEvenOddLinkedList",
+      "request": "launch",
+      "mainClass": "Day_50.segregateEvenOddLinkedList",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "ReverseLinkedListBetween",
+      "request": "launch",
+      "mainClass": "ReverseLinkedListBetween",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
+      "name": "LinkList",
+      "request": "launch",
+      "mainClass": "LinkList",
+      "projectName": "100daysCodingChallenge_a82f1bf5"
+    },
+    {
+      "type": "java",
       "name": "ReverseLinkedList",
       "request": "launch",
       "mainClass": "Day_43.ReverseLinkedList",
