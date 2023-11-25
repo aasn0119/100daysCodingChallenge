@@ -291,6 +291,11 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_53">Day 53 Code and Explanation</a>
 </details>
 
+<details>
+  <summary>Day 54: Nov 25, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_54">Day 54 Code and Explanation</a>
+</details>
+
 <!-- Repeat the above structure for each day -->
 
 ## 📚 Resources
