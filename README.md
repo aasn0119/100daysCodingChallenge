@@ -345,9 +345,15 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 64: Dec 5, 2023</summary>
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_64">Day 64 Code and Explanation</a>
 </details>
+
 <details>
   <summary>Day 65: Dec 6, 2023</summary>
   <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_65">Day 65 Code and Explanation</a>
+</details>
+
+<details>
+  <summary>Day 66: Dec 7, 2023</summary>
+  <a href="https://github.com/aasn0119/100daysCodingChallenge/tree/main/Day_66">Day 66 Code and Explanation</a>
 </details>
 
 <!-- Repeat the above structure for each day -->
